@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.bmw-carit</groupId>
 	<artifactId>barefoot</artifactId>
-	<version>0.1.5</version>
+	<version>0.1.5.1</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -178,12 +178,12 @@
 			<dependency>
 				<groupId>org.slf4j</groupId>
 				<artifactId>slf4j-api</artifactId>
-				<version>1.7.10</version>
+				<version>1.7.28</version>
 			</dependency>
 			<dependency>
 				<groupId>ch.qos.logback</groupId>
 				<artifactId>logback-classic</artifactId>
-				<version>1.0.9</version>
+				<version>1.2.3</version>
 			</dependency>
 			<dependency>
 				<groupId>com.esri.geometry</groupId>
